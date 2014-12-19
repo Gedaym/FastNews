@@ -1,0 +1,14 @@
+"Window": {
+  backgroundColor:"#FFFFFF",
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"#nameApp": {
+	font:{fontSize: '60dp'},
+	color: "black"
+}

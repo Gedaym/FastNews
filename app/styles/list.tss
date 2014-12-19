@@ -1,0 +1,18 @@
+
+".container" : {
+  
+}
+
+"#scroll": {
+    width: Ti.Platform.DisplayCaps.platformWidth,
+    layout: "vertical"
+}
+
+".snip":{
+	top : 20,
+}
+
+".head":{
+	top: 5,
+	color: "#FF0000",
+}

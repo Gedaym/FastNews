@@ -1,0 +1,18 @@
+<Alloy>
+	<Window>
+		<ScrollView id="scroll">			
+			<Label id="headline0" class="head"></Label>
+			<Label id="snippet0" class="snip"></Label>
+			<Label id="headline1" class="head"></Label>
+			<Label id="snippet1" class="snip"></Label>
+			<Label id="headline2" class="head"></Label>
+			<Label id="snippet2" class="snip"></Label>
+			<Label id="headline3" class="head"></Label>
+			<Label id="snippet3" class="snip"></Label>
+			<Label id="headline4" class="head"></Label>
+			<Label id="snippet4" class="snip"></Label>
+			<Label id="headline5" class="head"></Label>
+			<Label id="snippet5" class="snip"></Label>
+		</ScrollView>		
+	</Window>
+</Alloy>
